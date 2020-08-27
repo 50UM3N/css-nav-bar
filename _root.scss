@@ -1,0 +1,20 @@
+:root {
+  --font-family: "Roboto", sans-serif;
+  --color1: #ffffff;
+  --color2: #4c956c;
+  --color3: #2f2e41;
+  --color4: #dcf1e6;
+  --color5: #e1e4e8;
+  // navbar
+  --navbar-background-color: var(--color1);
+  --navbar-border-color: var(--color2);
+  --navbar-text-color: var(--color2);
+  // dropdown menu
+  --dropdown-menu-color: var(--color1);
+  --dropdown-menu-text-color: var(--color2);
+  --dropdown-menu-sub-headline-color: var(--color2);
+  --dropdown-menu-headline-color: var(--color3);
+  --dropdown-menu-item-hover-color: var(--color4);
+  --dropdown-menu-border-color: var(--color5);
+  --dropdown-menu-shadow-color: var(--color2);
+}
